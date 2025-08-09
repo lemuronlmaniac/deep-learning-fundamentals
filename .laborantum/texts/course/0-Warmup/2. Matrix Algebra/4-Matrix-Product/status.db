@@ -1,0 +1,4 @@
+{
+    "correct": 0,
+    "error": "Traceback (most recent call last):\n  File \"/workspaces/deep-learning-fundamentals/.laborantum/texts/course/0-Warmup/2. Matrix Algebra/4-Matrix-Product/dist/task.py\", line 3, in <module>\n    from pyarmor_runtime_000000 import __pyarmor__\n  File \"/workspaces/deep-learning-fundamentals/.laborantum/texts/course/0-Warmup/2. Matrix Algebra/4-Matrix-Product/dist/pyarmor_runtime_000000/__init__.py\", line 2, in <module>\n    from .pyarmor_runtime import __pyarmor__\nImportError: /workspaces/deep-learning-fundamentals/.laborantum/texts/course/0-Warmup/2. Matrix Algebra/4-Matrix-Product/dist/pyarmor_runtime_000000/pyarmor_runtime.so: cannot open shared object file: No such file or directory\n"
+}
