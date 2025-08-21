@@ -1,15 +1,15 @@
 {
-    "correct": 0.9995003747189608,
+    "correct": 1,
     "testStatus": [
         {
             "name": "root -> x_grad",
-            "ok": false,
-            "status": "FAILED: The answer is not found or is of incorrect Type"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> y_grad",
-            "ok": false,
-            "status": "FAILED: The answer is not found or is of incorrect Type"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> X_grad",
