@@ -1,5 +1,5 @@
 {
-    "correct": 0.6744444444444444,
+    "correct": 1,
     "testStatus": [
         {
             "name": "root -> init -> 0",
@@ -503,1023 +503,1023 @@
         },
         {
             "name": "root -> sum -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 5",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 6",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 7",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 8",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 9",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 10",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 11",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 12",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 13",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 14",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 15",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 16",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 17",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 18",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 19",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 20",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 21",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 22",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 23",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 24",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 25",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 26",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 27",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 28",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 29",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 30",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 31",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 32",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 33",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 34",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 35",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 36",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 37",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 38",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 39",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 40",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 41",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 42",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 43",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 44",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 45",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 46",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 47",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 48",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 49",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 50",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 51",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 52",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 53",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 54",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 55",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 56",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 57",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 58",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 59",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 60",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 61",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 62",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 63",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 64",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 65",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 66",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 67",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 68",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 69",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 70",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 71",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 72",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 73",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 74",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 75",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 76",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 77",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 78",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 79",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 80",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 81",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 82",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 83",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 84",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 85",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 86",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 87",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 88",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 89",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 90",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 91",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 92",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 93",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 94",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 95",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 96",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 97",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 98",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> sum -> 99",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 5",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 6",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 7",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 8",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 9",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 10",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 11",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 12",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 13",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 14",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 15",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 16",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 17",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 18",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 19",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 20",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 21",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 22",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 23",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 24",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 25",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 26",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 27",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 28",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 29",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 30",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 31",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 32",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 33",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 34",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 35",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 36",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 37",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 38",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 39",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 40",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 41",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 42",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 43",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 44",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 45",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 46",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 47",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 48",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 49",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 50",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 51",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 52",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 53",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 54",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 55",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 56",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 57",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 58",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 59",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 60",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 61",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 62",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 63",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 64",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 65",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 66",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 67",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 68",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 69",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 70",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 71",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 72",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 73",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 74",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 75",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 76",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 77",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 78",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 79",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 80",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 81",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 82",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 83",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 84",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 85",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 86",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 87",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 88",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 89",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 90",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 91",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 92",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 93",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 94",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 95",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 96",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 97",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 98",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> diff -> 99",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 84.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 136.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 221.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 4",
@@ -1528,73 +1528,73 @@
         },
         {
             "name": "root -> mul -> 5",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 400.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 6",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 532.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 7",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 153.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 8",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 117.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 9",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 10",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 165.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 11",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 30.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 12",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 160.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 13",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 12.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 14",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 260.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 15",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 375.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 16",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 17",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 20.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 18",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 384.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 19",
@@ -1603,38 +1603,38 @@
         },
         {
             "name": "root -> mul -> 20",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 36.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 21",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 315.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 22",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 16.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 23",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 345.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 24",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 112.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 25",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 96.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 26",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 54.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 27",
@@ -1648,138 +1648,138 @@
         },
         {
             "name": "root -> mul -> 29",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 42.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 30",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 31",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 198.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 32",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 33",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 34",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 20.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 35",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 120.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 36",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 54.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 37",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 266.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 38",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 234.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 39",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 40",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 170.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 41",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 9.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 42",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 43",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 70.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 44",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 21.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 45",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 120.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 46",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 260.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 47",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 35.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 48",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 55.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 49",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 260.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 50",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 375.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 51",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 108.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 52",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 53",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 153.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 54",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 216.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 55",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 40.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 56",
@@ -1788,158 +1788,158 @@
         },
         {
             "name": "root -> mul -> 57",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 30.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 58",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 27.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 59",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 322.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 60",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 30.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 61",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 62",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 216.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 63",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 21.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 64",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 180.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 65",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 78.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 66",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 208.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 67",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 345.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 68",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 252.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 69",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 40.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 70",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 90.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 71",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 18.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 72",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 168.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 73",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 504.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 74",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 286.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 75",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 8.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 76",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 56.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 77",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 65.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 78",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 79",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 264.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 80",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 81",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 82",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 6.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 83",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 35.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 84",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 112.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 85",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 273.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 86",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 190.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 87",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 192.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 88",
@@ -1948,58 +1948,58 @@
         },
         {
             "name": "root -> mul -> 89",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 4.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 90",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 266.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 91",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 40.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 92",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 49.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 93",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 187.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 94",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 112.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 95",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 198.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 96",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 10.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 97",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 221.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 98",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 48.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> mul -> 99",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.0"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> div -> 0",
@@ -6528,8 +6528,8 @@
         },
         {
             "name": "root -> two_layer_net -> 1 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0003848337167210418"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 1 -> 1",
@@ -6538,43 +6538,43 @@
         },
         {
             "name": "root -> two_layer_net -> 1 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.19603691308203172"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 1 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7351674311521006"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 1 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.07000176619562058"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 2 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.01526648368329121"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 2 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0022769523688037007"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 2 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0032059843091714734"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 2 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.000742320100214194"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 2 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.005389640512287225"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 3 -> 0",
@@ -6588,18 +6588,18 @@
         },
         {
             "name": "root -> two_layer_net -> 3 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0029599463710598675"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 3 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.012825399850973468"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 3 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.10105389886572087"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 4 -> 0",
@@ -6613,8 +6613,8 @@
         },
         {
             "name": "root -> two_layer_net -> 4 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0004937606523066862"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 4 -> 3",
@@ -6623,8 +6623,8 @@
         },
         {
             "name": "root -> two_layer_net -> 4 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0008229250369088196"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 5 -> 0",
@@ -6643,13 +6643,13 @@
         },
         {
             "name": "root -> two_layer_net -> 5 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00025421650697128313"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 5 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.017371519419872698"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 6 -> 0",
@@ -6663,8 +6663,8 @@
         },
         {
             "name": "root -> two_layer_net -> 6 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.004799450980937458"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 6 -> 3",
@@ -6673,8 +6673,8 @@
         },
         {
             "name": "root -> two_layer_net -> 6 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.005999312792790698"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 7 -> 0",
@@ -6688,8 +6688,8 @@
         },
         {
             "name": "root -> two_layer_net -> 7 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.014005498870751216"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 7 -> 3",
@@ -6698,38 +6698,38 @@
         },
         {
             "name": "root -> two_layer_net -> 7 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.035013747176675554"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 8 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.18250274860464497"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 8 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.014766339456719919"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 8 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.05995376064910749"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 8 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00738316972835996"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 8 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.14144532670525348"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 9 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0002208375275644535"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 9 -> 1",
@@ -6738,8 +6738,8 @@
         },
         {
             "name": "root -> two_layer_net -> 9 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00018527401314491108"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 9 -> 3",
@@ -6748,8 +6748,8 @@
         },
         {
             "name": "root -> two_layer_net -> 9 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0003215661804052337"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 10 -> 0",
@@ -6763,8 +6763,8 @@
         },
         {
             "name": "root -> two_layer_net -> 10 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.007021327555891114"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 10 -> 3",
@@ -6773,8 +6773,8 @@
         },
         {
             "name": "root -> two_layer_net -> 10 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.035106130217862984"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 11 -> 0",
@@ -6788,8 +6788,8 @@
         },
         {
             "name": "root -> two_layer_net -> 11 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.021023396991340634"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 11 -> 3",
@@ -6798,8 +6798,8 @@
         },
         {
             "name": "root -> two_layer_net -> 11 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.035038987657021604"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 12 -> 0",
@@ -6813,23 +6813,23 @@
         },
         {
             "name": "root -> two_layer_net -> 12 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00041163019231578674"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 12 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0004856522404003016"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 12 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0003440168152794814"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 13 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0001832596551177088"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 13 -> 1",
@@ -6838,8 +6838,8 @@
         },
         {
             "name": "root -> two_layer_net -> 13 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0018075631475759043"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 13 -> 3",
@@ -6848,8 +6848,8 @@
         },
         {
             "name": "root -> two_layer_net -> 13 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0030053203092102"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 14 -> 0",
@@ -6863,18 +6863,18 @@
         },
         {
             "name": "root -> two_layer_net -> 14 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.012489430349438871"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 14 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.012825848618374667"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 14 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.021768622958170298"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 15 -> 0",
@@ -6888,8 +6888,8 @@
         },
         {
             "name": "root -> two_layer_net -> 15 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.02586095258695528"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 15 -> 3",
@@ -6898,33 +6898,33 @@
         },
         {
             "name": "root -> two_layer_net -> 15 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.04310141318502075"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 16 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0008854690126129964"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 16 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0002339214614494025"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 16 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.030432539389936734"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 16 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0962925162760954"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 16 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00961698558674219"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 17 -> 0",
@@ -6938,13 +6938,13 @@
         },
         {
             "name": "root -> two_layer_net -> 17 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0002677448985128494"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 17 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0007634712001976865"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 17 -> 4",
@@ -6963,8 +6963,8 @@
         },
         {
             "name": "root -> two_layer_net -> 18 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0006553474454667801"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 18 -> 3",
@@ -6973,8 +6973,8 @@
         },
         {
             "name": "root -> two_layer_net -> 18 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0016561996366523018"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 19 -> 0",
@@ -6988,43 +6988,43 @@
         },
         {
             "name": "root -> two_layer_net -> 19 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.09828962543648466"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 19 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.7524212736625888"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 19 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.040062544847132675"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 20 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0214414982019181"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 20 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0029340997539473008"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 20 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00435030445359983"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 20 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.012618749065042723"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 20 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00096263027669383"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 21 -> 0",
@@ -7038,8 +7038,8 @@
         },
         {
             "name": "root -> two_layer_net -> 21 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.02118408015812802"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 21 -> 3",
@@ -7048,8 +7048,8 @@
         },
         {
             "name": "root -> two_layer_net -> 21 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03530680382492599"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 22 -> 0",
@@ -7063,8 +7063,8 @@
         },
         {
             "name": "root -> two_layer_net -> 22 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.026215471458291537"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 22 -> 3",
@@ -7073,63 +7073,63 @@
         },
         {
             "name": "root -> two_layer_net -> 22 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06553797127597728"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 23 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0008752725372423497"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 23 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00012731236905343273"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 23 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015342296159962807"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 23 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0016057512736211334"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 23 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.037244492535889774"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 24 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.05266189388607325"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 24 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.012391034638586217"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 24 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0041614687632580884"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 24 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0024797972896728766"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 24 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.010161308593399565"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 25 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00015928530158516516"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 25 -> 1",
@@ -7138,8 +7138,8 @@
         },
         {
             "name": "root -> two_layer_net -> 25 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0011824729670975838"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 25 -> 3",
@@ -7148,8 +7148,8 @@
         },
         {
             "name": "root -> two_layer_net -> 25 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.005910383442734588"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 26 -> 0",
@@ -7163,8 +7163,8 @@
         },
         {
             "name": "root -> two_layer_net -> 26 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00355069956602032"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 26 -> 3",
@@ -7173,8 +7173,8 @@
         },
         {
             "name": "root -> two_layer_net -> 26 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.005917832610061261"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 27 -> 0",
@@ -7188,18 +7188,18 @@
         },
         {
             "name": "root -> two_layer_net -> 27 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.2634813776258003"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 27 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.943815071417587"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 27 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.05979033911051706"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 28 -> 0",
@@ -7213,68 +7213,68 @@
         },
         {
             "name": "root -> two_layer_net -> 28 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.02676932027945116"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 28 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00013324917123635417"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 28 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.1334007739919925"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 29 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.007862577892114697"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 29 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0017456307275398972"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 29 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006480271466550219"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 29 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.000542486117629903"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 29 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.016141878878230414"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 30 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.21353607163770766"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 30 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.056964582077235294"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 30 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03204051283814775"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 30 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013403431076996541"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 30 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08200858956347944"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 31 -> 0",
@@ -7288,18 +7288,18 @@
         },
         {
             "name": "root -> two_layer_net -> 31 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.042182024430788174"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 31 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0038225471831622947"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 31 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06666285522783001"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 32 -> 0",
@@ -7328,33 +7328,33 @@
         },
         {
             "name": "root -> two_layer_net -> 33 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006264294253130376"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 33 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.001758675573674183"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 33 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.018277115141768566"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 33 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0005862253254405135"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 33 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.048652710349620494"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 34 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0001485602134052575"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 34 -> 1",
@@ -7363,8 +7363,8 @@
         },
         {
             "name": "root -> two_layer_net -> 34 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0005568745250416321"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 34 -> 3",
@@ -7373,18 +7373,18 @@
         },
         {
             "name": "root -> two_layer_net -> 34 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0009288842437239947"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 35 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0008546865521316428"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 35 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00019535692623205827"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 35 -> 2",
@@ -7398,33 +7398,33 @@
         },
         {
             "name": "root -> two_layer_net -> 35 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00010357701772526028"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 36 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.02441916248784601"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 36 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0029845643163441612"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 36 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015903415446380163"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 36 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.028251533849191192"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 36 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.004428300349445833"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 37 -> 0",
@@ -7448,8 +7448,8 @@
         },
         {
             "name": "root -> two_layer_net -> 37 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00011146119617779335"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 38 -> 0",
@@ -7463,8 +7463,8 @@
         },
         {
             "name": "root -> two_layer_net -> 38 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006353241754489148"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 38 -> 3",
@@ -7473,8 +7473,8 @@
         },
         {
             "name": "root -> two_layer_net -> 38 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015883104386208217"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 39 -> 0",
@@ -7488,8 +7488,8 @@
         },
         {
             "name": "root -> two_layer_net -> 39 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00012136683107496853"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 39 -> 3",
@@ -7498,8 +7498,8 @@
         },
         {
             "name": "root -> two_layer_net -> 39 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0003034081867678358"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 40 -> 0",
@@ -7513,23 +7513,23 @@
         },
         {
             "name": "root -> two_layer_net -> 40 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.21702046354583296"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 40 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.39897562453417523"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 40 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0700348020067294"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 41 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0010957169975680241"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 41 -> 1",
@@ -7548,8 +7548,8 @@
         },
         {
             "name": "root -> two_layer_net -> 41 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00035515147068239356"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 42 -> 0",
@@ -7563,43 +7563,43 @@
         },
         {
             "name": "root -> two_layer_net -> 42 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0045068337189008035"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 42 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.014799055748160289"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 42 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0009340038216253706"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 43 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.8936841455914983"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 43 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 2.1804631215283985"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 43 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.22067510617138383"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 43 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5009527295783924"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 43 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.20488202126320523"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 44 -> 0",
@@ -7638,18 +7638,18 @@
         },
         {
             "name": "root -> two_layer_net -> 45 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.026777809096063674"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 45 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.003640884720122404"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 45 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06527578391008201"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 46 -> 0",
@@ -7663,8 +7663,8 @@
         },
         {
             "name": "root -> two_layer_net -> 46 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006999985653204479"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 46 -> 3",
@@ -7673,33 +7673,33 @@
         },
         {
             "name": "root -> two_layer_net -> 46 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.034999927704018385"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 47 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0017553517592022946"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 47 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00035107035184045893"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 47 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.021062289341288003"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 47 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00014042814073624634"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 47 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.035182305544206684"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 48 -> 0",
@@ -7713,8 +7713,8 @@
         },
         {
             "name": "root -> two_layer_net -> 48 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006473790309685165"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 48 -> 3",
@@ -7723,8 +7723,8 @@
         },
         {
             "name": "root -> two_layer_net -> 48 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.016184338148071183"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 49 -> 0",
@@ -7738,8 +7738,8 @@
         },
         {
             "name": "root -> two_layer_net -> 49 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0024161764311701876"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 49 -> 3",
@@ -7748,8 +7748,8 @@
         },
         {
             "name": "root -> two_layer_net -> 49 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006040441077924702"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 50 -> 0",
@@ -7763,8 +7763,8 @@
         },
         {
             "name": "root -> two_layer_net -> 50 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.039347062669249804"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 50 -> 3",
@@ -7773,8 +7773,8 @@
         },
         {
             "name": "root -> two_layer_net -> 50 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0655784377821548"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 51 -> 0",
@@ -7788,8 +7788,8 @@
         },
         {
             "name": "root -> two_layer_net -> 51 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00013792427422195882"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 51 -> 3",
@@ -7798,8 +7798,8 @@
         },
         {
             "name": "root -> two_layer_net -> 51 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00034481068560299807"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 52 -> 0",
@@ -7823,33 +7823,33 @@
         },
         {
             "name": "root -> two_layer_net -> 52 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0004562743235546037"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 53 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 1.2827537617254932"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 53 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.267240367026366"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 53 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015772029914847555"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 53 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.04275845872421856"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 53 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06214640663956994"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 54 -> 0",
@@ -7863,68 +7863,68 @@
         },
         {
             "name": "root -> two_layer_net -> 54 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.012186948190903121"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 54 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0006415688733406442"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 54 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.01501777153402664"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 55 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.09546116446138973"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 55 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00881328990466931"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 55 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.008742076451793522"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 55 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.002937763298198949"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 55 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03444649948642329"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 56 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.17275911722525022"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 56 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06117875966955335"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 56 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.269968915002288"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 56 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.6220144450709217"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 56 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08385388256361552"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 57 -> 0",
@@ -7938,8 +7938,8 @@
         },
         {
             "name": "root -> two_layer_net -> 57 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.039350402746834996"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 57 -> 3",
@@ -7948,58 +7948,58 @@
         },
         {
             "name": "root -> two_layer_net -> 57 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06558400457807345"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 58 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.3775060308962178"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 58 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08344870156653245"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 58 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.028569621319183208"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 58 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.01589609839445274"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 58 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03346208221755034"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 59 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.2967959633455648"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 59 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.07914606249200869"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 59 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.22389391919351315"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 59 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.8527879636978717"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 59 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08686624151130207"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 60 -> 0",
@@ -8013,8 +8013,8 @@
         },
         {
             "name": "root -> two_layer_net -> 60 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006909910417383493"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 60 -> 3",
@@ -8023,8 +8023,8 @@
         },
         {
             "name": "root -> two_layer_net -> 60 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.017274919347101625"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 61 -> 0",
@@ -8038,8 +8038,8 @@
         },
         {
             "name": "root -> two_layer_net -> 61 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00953712509770301"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 61 -> 3",
@@ -8048,8 +8048,8 @@
         },
         {
             "name": "root -> two_layer_net -> 61 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015894560668609958"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 62 -> 0",
@@ -8063,8 +8063,8 @@
         },
         {
             "name": "root -> two_layer_net -> 62 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.008177236795732432"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 62 -> 3",
@@ -8073,8 +8073,8 @@
         },
         {
             "name": "root -> two_layer_net -> 62 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.04088618397866216"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 63 -> 0",
@@ -8113,18 +8113,18 @@
         },
         {
             "name": "root -> two_layer_net -> 64 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03340520993575413"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 64 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00010876676781677412"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 64 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08332386701046081"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 65 -> 0",
@@ -8153,18 +8153,18 @@
         },
         {
             "name": "root -> two_layer_net -> 66 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.000918888125376873"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 66 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00013967099507234272"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 66 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013269558610150407"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 66 -> 3",
@@ -8173,33 +8173,33 @@
         },
         {
             "name": "root -> two_layer_net -> 66 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06633960710306161"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 67 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.031253650192965964"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 67 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.007422741920829416"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 67 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.002911309936108664"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 67 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.001562682518734403"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 67 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0068688795783827285"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 68 -> 0",
@@ -8213,8 +8213,8 @@
         },
         {
             "name": "root -> two_layer_net -> 68 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.050025126670030305"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 68 -> 3",
@@ -8223,33 +8223,33 @@
         },
         {
             "name": "root -> two_layer_net -> 68 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08337521297023255"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 69 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.31249956188155964"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 69 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.04016071564762474"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 69 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0048088770285679965"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 69 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013547237372201723"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 69 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.008259555137198464"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 70 -> 0",
@@ -8263,18 +8263,18 @@
         },
         {
             "name": "root -> two_layer_net -> 70 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.10851338089085234"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 70 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.17167129996954386"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 70 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.02434194961937868"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 71 -> 0",
@@ -8288,58 +8288,58 @@
         },
         {
             "name": "root -> two_layer_net -> 71 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03890870464832201"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 71 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06358574213655438"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 71 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00012687784745307528"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 72 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.1455662381852971"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 72 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.016502181989499137"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 72 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.05278330542625904"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 72 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.017957429058936013"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 72 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.07070684280597815"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 73 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0010366818413669173"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 73 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0002022634709350711"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 73 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0009209967422244829"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 73 -> 3",
@@ -8348,8 +8348,8 @@
         },
         {
             "name": "root -> two_layer_net -> 73 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.002294417796054749"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 74 -> 0",
@@ -8363,68 +8363,68 @@
         },
         {
             "name": "root -> two_layer_net -> 74 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.11355646659703235"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 74 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.18974197093093398"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 74 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06553731108845917"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 75 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5074596397676546"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 75 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.053420768786343706"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 75 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.05984085866626353"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 75 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.021368307514864876"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 75 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.1038614124883091"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 76 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.5232917577786833"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 76 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.251180043733768"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 76 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.024576726177410555"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 76 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0418633406237838"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 76 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03510960882390595"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 77 -> 0",
@@ -8463,8 +8463,8 @@
         },
         {
             "name": "root -> two_layer_net -> 78 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.001186270378752103"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 78 -> 3",
@@ -8473,8 +8473,8 @@
         },
         {
             "name": "root -> two_layer_net -> 78 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.005929264481704488"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 79 -> 0",
@@ -8488,8 +8488,8 @@
         },
         {
             "name": "root -> two_layer_net -> 79 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0011857811659551664"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 79 -> 3",
@@ -8498,8 +8498,8 @@
         },
         {
             "name": "root -> two_layer_net -> 79 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0059288694017670335"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 80 -> 0",
@@ -8513,8 +8513,8 @@
         },
         {
             "name": "root -> two_layer_net -> 80 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0026592525103955587"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 80 -> 3",
@@ -8523,8 +8523,8 @@
         },
         {
             "name": "root -> two_layer_net -> 80 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.004432000051168562"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 81 -> 0",
@@ -8563,8 +8563,8 @@
         },
         {
             "name": "root -> two_layer_net -> 82 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06032122738402038"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 82 -> 3",
@@ -8573,8 +8573,8 @@
         },
         {
             "name": "root -> two_layer_net -> 82 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.10053545327244458"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 83 -> 0",
@@ -8613,18 +8613,18 @@
         },
         {
             "name": "root -> two_layer_net -> 84 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03607823414801823"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 84 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.10242989711977357"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 84 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.04309950832903808"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 85 -> 0",
@@ -8638,8 +8638,8 @@
         },
         {
             "name": "root -> two_layer_net -> 85 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013611192714554155"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 85 -> 3",
@@ -8648,8 +8648,8 @@
         },
         {
             "name": "root -> two_layer_net -> 85 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06805554544660038"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 86 -> 0",
@@ -8663,8 +8663,8 @@
         },
         {
             "name": "root -> two_layer_net -> 86 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.05243255872567696"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 86 -> 3",
@@ -8673,33 +8673,33 @@
         },
         {
             "name": "root -> two_layer_net -> 86 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06553806202118813"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 87 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.03662951806359845"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 87 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.058607228717487615"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 87 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.07299140355330289"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 87 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.14767006615194037"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 87 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.007597135032569826"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 88 -> 0",
@@ -8713,8 +8713,8 @@
         },
         {
             "name": "root -> two_layer_net -> 88 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.01619138999900269"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 88 -> 3",
@@ -8723,33 +8723,33 @@
         },
         {
             "name": "root -> two_layer_net -> 88 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0808975566720397"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 89 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.002700916735680306"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 89 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0009903361364161129"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 89 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0025882965837411924"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 89 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00018006111579259507"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 89 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.006449159826632759"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 90 -> 0",
@@ -8763,18 +8763,18 @@
         },
         {
             "name": "root -> two_layer_net -> 90 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0005469322496802828"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 90 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0018773308890716474"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 90 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00015211891571693806"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 91 -> 0",
@@ -8788,33 +8788,33 @@
         },
         {
             "name": "root -> two_layer_net -> 91 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.09658229578431077"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 91 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.25298929415837185"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 91 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.06827649489325897"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 92 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.000739698903581322"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 92 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00025035962889696615"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 92 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.016704623939142817"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 92 -> 3",
@@ -8823,8 +8823,8 @@
         },
         {
             "name": "root -> two_layer_net -> 92 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.08344709510387231"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 93 -> 0",
@@ -8838,18 +8838,18 @@
         },
         {
             "name": "root -> two_layer_net -> 93 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.000409406786994488"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 93 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0001272691857113276"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 93 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0005087502833359194"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 94 -> 0",
@@ -8863,8 +8863,8 @@
         },
         {
             "name": "root -> two_layer_net -> 94 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00022585187852097393"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 94 -> 3",
@@ -8873,8 +8873,8 @@
         },
         {
             "name": "root -> two_layer_net -> 94 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.001128212690329731"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 95 -> 0",
@@ -8888,8 +8888,8 @@
         },
         {
             "name": "root -> two_layer_net -> 95 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.009044436500231063"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 95 -> 3",
@@ -8898,13 +8898,13 @@
         },
         {
             "name": "root -> two_layer_net -> 95 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.015074055337318275"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 96 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0002357770353322141"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 96 -> 1",
@@ -8913,8 +8913,8 @@
         },
         {
             "name": "root -> two_layer_net -> 96 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.00453157157444451"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 96 -> 3",
@@ -8923,8 +8923,8 @@
         },
         {
             "name": "root -> two_layer_net -> 96 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.007554913595092271"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 97 -> 0",
@@ -8938,43 +8938,43 @@
         },
         {
             "name": "root -> two_layer_net -> 97 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.004353579079163831"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 97 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.013812452035767132"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 97 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0011255724344658021"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 98 -> 0",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.09886175504240001"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 98 -> 1",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.026363134677973334"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 98 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.020495571681322832"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 98 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0052913672290683614"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 98 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.029253339831810495"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 99 -> 0",
@@ -8988,18 +8988,18 @@
         },
         {
             "name": "root -> two_layer_net -> 99 -> 2",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.003814029163484588"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 99 -> 3",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.010359341583740009"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> two_layer_net -> 99 -> 4",
-            "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 0.0008481645148104474"
+            "ok": true,
+            "status": "OK"
         }
     ]
 }
