@@ -21,6 +21,7 @@ class SimpleFCNN(torch.nn.Module):
 
     def __call__(self, signal):
         res = signal.reshape([signal.shape[0], -1])
+        # print(res[0])
         ## YOUR CODE HERE
         # -- placeholder start --
         res = self.backbone(res)

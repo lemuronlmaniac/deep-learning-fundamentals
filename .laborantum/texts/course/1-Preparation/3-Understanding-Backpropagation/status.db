@@ -1,5 +1,5 @@
 {
-    "correct": 0.9807692307692307,
+    "correct": 1,
     "testStatus": [
         {
             "name": "root -> graph_value -> 0 -> 0",
@@ -15018,8 +15018,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 0 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6689961498331194,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 1 -> 0 -> dy_dz9",
@@ -15038,8 +15038,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 1 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.650003554555799,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 2 -> 0 -> dy_dz9",
@@ -15058,8 +15058,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 2 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.18238218092737904,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 3 -> 0 -> dy_dz9",
@@ -15078,8 +15078,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 3 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5896113833760191,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 4 -> 0 -> dy_dz9",
@@ -15098,8 +15098,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 4 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.07001882910792338,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 5 -> 0 -> dy_dz9",
@@ -15118,8 +15118,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 5 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.23192308490715524,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 6 -> 0 -> dy_dz9",
@@ -15138,8 +15138,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 6 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.23206186075182936,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 7 -> 0 -> dy_dz9",
@@ -15158,8 +15158,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 7 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.13001703726517394,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 8 -> 0 -> dy_dz9",
@@ -15178,8 +15178,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 8 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6432255836546759,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 9 -> 0 -> dy_dz9",
@@ -15198,8 +15198,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 9 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.302695187162599,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 10 -> 0 -> dy_dz9",
@@ -15218,8 +15218,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 10 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1498472988366949,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 11 -> 0 -> dy_dz9",
@@ -15238,8 +15238,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 11 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.19662966012797203,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 12 -> 0 -> dy_dz9",
@@ -15258,8 +15258,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 12 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.06454579328443728,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 13 -> 0 -> dy_dz9",
@@ -15278,8 +15278,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 13 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4334881149733187,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 14 -> 0 -> dy_dz9",
@@ -15298,8 +15298,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 14 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.09022414297737012,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 15 -> 0 -> dy_dz9",
@@ -15318,8 +15318,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 15 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.19976225809603917,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 16 -> 0 -> dy_dz9",
@@ -15338,8 +15338,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 16 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.015208854815227347,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 17 -> 0 -> dy_dz9",
@@ -15358,8 +15358,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 17 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.14251728678378967,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 18 -> 0 -> dy_dz9",
@@ -15378,8 +15378,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 18 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.016058475655540982,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 19 -> 0 -> dy_dz9",
@@ -15398,8 +15398,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 19 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.31039372621604255,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 20 -> 0 -> dy_dz9",
@@ -15418,8 +15418,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 20 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8821807237050923,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 21 -> 0 -> dy_dz9",
@@ -15438,8 +15438,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 21 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.22965092814369886,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 22 -> 0 -> dy_dz9",
@@ -15458,8 +15458,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 22 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.11697409584177153,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 23 -> 0 -> dy_dz9",
@@ -15478,8 +15478,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 23 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.056263623491047354,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 24 -> 0 -> dy_dz9",
@@ -15498,8 +15498,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 24 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1345363524874325,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 25 -> 0 -> dy_dz9",
@@ -15518,8 +15518,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 25 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.20568242877881815,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 26 -> 0 -> dy_dz9",
@@ -15538,8 +15538,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 26 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5373907708394648,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 27 -> 0 -> dy_dz9",
@@ -15558,8 +15558,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 27 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.34532147083023695,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 28 -> 0 -> dy_dz9",
@@ -15578,8 +15578,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 28 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.22305582700552573,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 29 -> 0 -> dy_dz9",
@@ -15598,8 +15598,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 29 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5600946621944486,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 30 -> 0 -> dy_dz9",
@@ -15618,8 +15618,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 30 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1398301814177454,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 31 -> 0 -> dy_dz9",
@@ -15638,8 +15638,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 31 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.374982771499808,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 32 -> 0 -> dy_dz9",
@@ -15658,8 +15658,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 32 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4148387744171385,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 33 -> 0 -> dy_dz9",
@@ -15678,8 +15678,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 33 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.315874973513361,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 34 -> 0 -> dy_dz9",
@@ -15698,8 +15698,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 34 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.11881297277021102,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 35 -> 0 -> dy_dz9",
@@ -15718,8 +15718,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 35 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.7764486909109004,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 36 -> 0 -> dy_dz9",
@@ -15738,8 +15738,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 36 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.03401524171914065,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 37 -> 0 -> dy_dz9",
@@ -15758,8 +15758,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 37 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.26595387976740886,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 38 -> 0 -> dy_dz9",
@@ -15778,8 +15778,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 38 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1362084902121516,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 39 -> 0 -> dy_dz9",
@@ -15798,8 +15798,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 39 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3576688189255096,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 40 -> 0 -> dy_dz9",
@@ -15818,8 +15818,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 40 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2724901382834081,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 41 -> 0 -> dy_dz9",
@@ -15838,8 +15838,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 41 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.19085469106377084,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 42 -> 0 -> dy_dz9",
@@ -15858,8 +15858,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 42 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3226254133694707,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 43 -> 0 -> dy_dz9",
@@ -15878,8 +15878,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 43 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.23420245378836307,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 44 -> 0 -> dy_dz9",
@@ -15898,8 +15898,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 44 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.791458276104084,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 45 -> 0 -> dy_dz9",
@@ -15918,8 +15918,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 45 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.82943500010529,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 46 -> 0 -> dy_dz9",
@@ -15938,8 +15938,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 46 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.42819924962548056,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 47 -> 0 -> dy_dz9",
@@ -15958,8 +15958,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 47 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.9730124775251064,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 48 -> 0 -> dy_dz9",
@@ -15978,8 +15978,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 48 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.41771207261388976,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 49 -> 0 -> dy_dz9",
@@ -15998,8 +15998,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 49 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2861319140249386,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 50 -> 0 -> dy_dz9",
@@ -16018,8 +16018,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 50 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.024049859772396768,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 51 -> 0 -> dy_dz9",
@@ -16038,8 +16038,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 51 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5688117775266047,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 52 -> 0 -> dy_dz9",
@@ -16058,8 +16058,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 52 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6104167258176196,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 53 -> 0 -> dy_dz9",
@@ -16078,8 +16078,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 53 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.262130179526764,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 54 -> 0 -> dy_dz9",
@@ -16098,8 +16098,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 54 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.21467240555689726,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 55 -> 0 -> dy_dz9",
@@ -16118,8 +16118,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 55 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.47343992227101667,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 56 -> 0 -> dy_dz9",
@@ -16138,8 +16138,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 56 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2823807700341834,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 57 -> 0 -> dy_dz9",
@@ -16158,8 +16158,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 57 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.11899374140203679,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 58 -> 0 -> dy_dz9",
@@ -16178,8 +16178,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 58 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3402125279622072,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 59 -> 0 -> dy_dz9",
@@ -16198,8 +16198,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 59 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4216560966485567,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 60 -> 0 -> dy_dz9",
@@ -16218,8 +16218,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 60 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5766331877081686,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 61 -> 0 -> dy_dz9",
@@ -16238,8 +16238,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 61 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3718102000906311,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 62 -> 0 -> dy_dz9",
@@ -16258,8 +16258,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 62 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.18457937982040717,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 63 -> 0 -> dy_dz9",
@@ -16278,8 +16278,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 63 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.7044069520049862,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 64 -> 0 -> dy_dz9",
@@ -16298,8 +16298,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 64 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.38358498995984325,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 65 -> 0 -> dy_dz9",
@@ -16318,8 +16318,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 65 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.09622437927726629,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 66 -> 0 -> dy_dz9",
@@ -16338,8 +16338,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 66 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1369703456721626,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 67 -> 0 -> dy_dz9",
@@ -16358,8 +16358,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 67 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.22844528888596194,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 68 -> 0 -> dy_dz9",
@@ -16378,8 +16378,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 68 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3792249948538844,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 69 -> 0 -> dy_dz9",
@@ -16398,8 +16398,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 69 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.4860722073334421,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 70 -> 0 -> dy_dz9",
@@ -16418,8 +16418,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 70 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.8522508532067234,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 71 -> 0 -> dy_dz9",
@@ -16438,8 +16438,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 71 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.41369992644229936,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 72 -> 0 -> dy_dz9",
@@ -16458,8 +16458,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 72 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5105461672076199,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 73 -> 0 -> dy_dz9",
@@ -16478,8 +16478,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 73 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.018564989643009133,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 74 -> 0 -> dy_dz9",
@@ -16498,8 +16498,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 74 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.074219964637563,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 75 -> 0 -> dy_dz9",
@@ -16518,8 +16518,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 75 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.23292818504191343,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 76 -> 0 -> dy_dz9",
@@ -16538,8 +16538,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 76 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3328488808310444,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 77 -> 0 -> dy_dz9",
@@ -16558,8 +16558,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 77 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.0021489662673667507,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 78 -> 0 -> dy_dz9",
@@ -16578,8 +16578,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 78 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.3068899437568545,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 79 -> 0 -> dy_dz9",
@@ -16598,8 +16598,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 79 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.056055146320247204,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 80 -> 0 -> dy_dz9",
@@ -16618,8 +16618,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 80 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.09547718985564414,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 81 -> 0 -> dy_dz9",
@@ -16638,8 +16638,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 81 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.14578725190775124,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 82 -> 0 -> dy_dz9",
@@ -16658,8 +16658,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 82 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.25932169331773836,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 83 -> 0 -> dy_dz9",
@@ -16678,8 +16678,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 83 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2474964883736249,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 84 -> 0 -> dy_dz9",
@@ -16698,8 +16698,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 84 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.19576635106614937,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 85 -> 0 -> dy_dz9",
@@ -16718,8 +16718,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 85 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.37750196202301534,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 86 -> 0 -> dy_dz9",
@@ -16738,8 +16738,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 86 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.1435996220299398,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 87 -> 0 -> dy_dz9",
@@ -16758,8 +16758,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 87 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.16348199483916115,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 88 -> 0 -> dy_dz9",
@@ -16778,8 +16778,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 88 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.7022578029533624,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 89 -> 0 -> dy_dz9",
@@ -16798,8 +16798,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 89 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.058685427256168446,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 90 -> 0 -> dy_dz9",
@@ -16818,8 +16818,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 90 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.24069222270749677,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 91 -> 0 -> dy_dz9",
@@ -16838,8 +16838,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 91 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.481428634026921,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 92 -> 0 -> dy_dz9",
@@ -16858,8 +16858,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 92 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.12780389776354986,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 93 -> 0 -> dy_dz9",
@@ -16878,8 +16878,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 93 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6177956092738139,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 94 -> 0 -> dy_dz9",
@@ -16898,8 +16898,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 94 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.2685814053900589,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 95 -> 0 -> dy_dz9",
@@ -16918,8 +16918,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 95 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.5252616893670525,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 96 -> 0 -> dy_dz9",
@@ -16938,8 +16938,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 96 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.21439623647995584,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 97 -> 0 -> dy_dz9",
@@ -16958,8 +16958,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 97 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6841636561699554,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 98 -> 0 -> dy_dz9",
@@ -16978,8 +16978,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 98 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6189803399499602,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_dc2 -> 99 -> 0 -> dy_dz9",
@@ -16998,8 +16998,8 @@
         },
         {
             "name": "root -> dy_dc2 -> 99 -> 1",
-            "ok": false,
-            "status": "\n                    FAILED: Incorrect answer. Misfit is 0.6168313840623831,'\n                    that is larger than eps (0.0001)"
+            "ok": true,
+            "status": "OK"
         },
         {
             "name": "root -> dy_db1 -> 0 -> 0 -> dy_dz8",
