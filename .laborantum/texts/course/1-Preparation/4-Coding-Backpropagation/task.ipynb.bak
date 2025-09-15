@@ -28,7 +28,7 @@
             "outputs": [],
             "source": [
                 "numpy.random.seed(0)\n",
-                "random.seed(0)"
+                "random.seed(0)\n"
             ]
         },
         {
@@ -160,7 +160,11 @@
         },
         {
             "cell_type": "code",
+<<<<<<< HEAD
             "execution_count": 68,
+=======
+            "execution_count": null,
+>>>>>>> origin/main
             "metadata": {},
             "outputs": [],
             "source": [
@@ -286,7 +290,7 @@
                 "        self.grad = None\n",
                 "        self.n_dependents = 0 \n",
                 "        return self\n",
-                "    \n",
+                "\n",
                 "    def backward_step(self, grad_output=None):\n",
                 "        ### YOUR CODE HERE ###\n",
                 "        if grad_output is None:\n",
@@ -493,7 +497,7 @@
                 "\n",
                 "    x.backward()\n",
                 "\n",
-                "    answer['init'].append(x.grad)"
+                "    answer['init'].append(x.grad)\n"
             ]
         },
         {
@@ -531,9 +535,13 @@
                 "    z = x + y + x + x + x + y\n",
                 "    z.backward()\n",
                 "\n",
+<<<<<<< HEAD
                 "    answer['sum'].append(x.grad)\n",
                 "\n",
                 "print(answer['sum'])"
+=======
+                "    answer['sum'].append(x.grad)\n"
+>>>>>>> origin/main
             ]
         },
         {
@@ -584,7 +592,7 @@
                 "    z = x - y + x + x - y - y\n",
                 "    z.backward()\n",
                 "\n",
-                "    answer['diff'].append(x.grad)"
+                "    answer['diff'].append(x.grad)\n"
             ]
         },
         {
@@ -620,23 +628,19 @@
                 "\n",
                 "    z = (x + y) * (x - y) * (x + x + y)\n",
                 "    z.backward()\n",
+<<<<<<< HEAD
+                "\n",
                 "    answer['mul'].append(x.grad)"
+=======
+                "    answer['mul'].append(x.grad)\n"
+>>>>>>> origin/main
             ]
         },
         {
             "cell_type": "code",
-            "execution_count": null,
+            "execution_count": 73,
             "metadata": {},
-            "outputs": [],
-            "source": [
-                "print()\n",
-                "print(answer['mul'])"
-            ]
-        },
-        {
-            "cell_type": "code",
-            "execution_count": 48,
-            "metadata": {},
+<<<<<<< HEAD
             "outputs": [
                 {
                     "name": "stdout",
@@ -647,6 +651,19 @@
                     ]
                 }
             ],
+=======
+            "outputs": [],
+            "source": [
+                "print()\n",
+                "print(answer['mul'])\n"
+            ]
+        },
+        {
+            "cell_type": "code",
+            "execution_count": 48,
+            "metadata": {},
+            "outputs": [],
+>>>>>>> origin/main
             "source": [
                 "# TEST 5\n",
                 "\n",
@@ -667,12 +684,16 @@
                 "    z = x / (Node(0.5) + y)\n",
                 "    z.backward()\n",
                 "\n",
-                "    answer['div'].append(x.grad)"
+                "    answer['div'].append(x.grad)\n"
             ]
         },
         {
             "cell_type": "code",
+<<<<<<< HEAD
             "execution_count": 74,
+=======
+            "execution_count": null,
+>>>>>>> origin/main
             "metadata": {},
             "outputs": [
                 {
@@ -686,24 +707,24 @@
             ],
             "source": [
                 "# TEST 6\n",
-                "\n",
-                "x = Node(numpy.array([1]))\n",
-                "y = Node(numpy.array([2]))\n",
-                "\n",
-                "z = -x\n",
-                "\n",
-                "print(z)\n",
-                "z.backward()\n",
-                "print(x)\n",
-                "\n",
-                "answer['neg'] = []\n",
-                "for inp in inputs1:\n",
-                "    x = Node(inp['x'][0])\n",
+                "with src.utils.safecatch():\n",
+                "    x = Node(numpy.array([1]))\n",
+                "    y = Node(numpy.array([2]))\n",
                 "\n",
                 "    z = -x\n",
-                "    z.backward()\n",
                 "\n",
-                "    answer['neg'].append(x.grad)"
+                "    print(z)\n",
+                "    z.backward()\n",
+                "    print(x)\n",
+                "\n",
+                "    answer['neg'] = []\n",
+                "    for inp in inputs1:\n",
+                "        x = Node(inp['x'][0])\n",
+                "\n",
+                "        z = -x\n",
+                "        z.backward()\n",
+                "\n",
+                "        answer['neg'].append(x.grad)\n"
             ]
         },
         {
@@ -743,7 +764,7 @@
                 "    z = x.exp()\n",
                 "    z.backward()\n",
                 "\n",
-                "    answer['exp'].append(x.grad)"
+                "    answer['exp'].append(x.grad)\n"
             ]
         },
         {
@@ -845,8 +866,7 @@
                 "y.backward()\n",
                 "\n",
                 "print(\"TORCH RESULTS:\")\n",
-                "print(x.grad, w.grad)\n",
-                "    "
+                "print(x.grad, w.grad)\n"
             ]
         },
         {
@@ -3226,7 +3246,7 @@
                 }
             ],
             "source": [
-                "json_tricks.dump(answer, '.answer.json')"
+                "json_tricks.dump(answer, '.answer.json')\n"
             ]
         }
     ],
