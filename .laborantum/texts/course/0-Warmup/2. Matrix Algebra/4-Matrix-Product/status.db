@@ -219,7 +219,7 @@
         {
             "name": "root -> task5 -> 0 -> 0",
             "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 5.0"
+            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nreceived average mismatch: 5.0"
         },
         {
             "name": "root -> task5 -> 0 -> 1",
@@ -229,7 +229,7 @@
         {
             "name": "root -> task5 -> 1 -> 0",
             "ok": false,
-            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nRecieved average mismatch: 3.0"
+            "status": "FAILED: answers do not match:\nMaximal average mismatch: 0.0001\nreceived average mismatch: 3.0"
         },
         {
             "name": "root -> task5 -> 1 -> 1",
